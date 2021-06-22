@@ -138,7 +138,7 @@ libri_alignment.zip
 data
 
 # checkpoints
-*.ckpt
+#*.ckpt
 *.pth
 
 # experiment files
