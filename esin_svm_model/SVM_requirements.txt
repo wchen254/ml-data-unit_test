@@ -1,0 +1,5 @@
+scikit-learn==0.24.2
+librosa
+folium==0.2.1
+emd==0.4.0  
+dask[complete]
